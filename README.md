@@ -7,8 +7,8 @@ When the user submit the form, the following validations take place:
 * Password validation : 
     - The password should be at least 10 characters long.
     - The "password" and "confirm password" fields should match.
-    
-    
+
+![](https://github.com/MhammedDoukkali/Signup-Form-/blob/main/validations.gif)
 
 # Technologies used : 
 
